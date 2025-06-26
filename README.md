@@ -31,3 +31,8 @@ A Node.js + Express backend for scheduling events, sending reminders, and syncin
 
 ## 📂 Project Structure
 
+## 🔄 Postman Collection
+
+Download & test all endpoints from this Postman collection:
+
+👉 [`CalendarScheduler.postman_collection.json`](./CalendarScheduler.postman_collection.json)
